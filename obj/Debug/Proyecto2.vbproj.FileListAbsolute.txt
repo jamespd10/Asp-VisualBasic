@@ -1,0 +1,117 @@
+C:\Users\nancy\OneDrive\Escritorio\Proyecto2\Proyecto2\bin\Debug\Proyecto2.exe.config
+C:\Users\nancy\OneDrive\Escritorio\Proyecto2\Proyecto2\bin\Debug\Proyecto2.exe
+C:\Users\nancy\OneDrive\Escritorio\Proyecto2\Proyecto2\bin\Debug\Proyecto2.pdb
+C:\Users\nancy\OneDrive\Escritorio\Proyecto2\Proyecto2\bin\Debug\Proyecto2.xml
+C:\Users\nancy\OneDrive\Escritorio\Proyecto2\Proyecto2\obj\Debug\Proyecto2.vbprojAssemblyReference.cache
+C:\Users\nancy\OneDrive\Escritorio\Proyecto2\Proyecto2\obj\Debug\Proyecto2.FrmLogin.resources
+C:\Users\nancy\OneDrive\Escritorio\Proyecto2\Proyecto2\obj\Debug\Proyecto2.FrmMantenimiento.resources
+C:\Users\nancy\OneDrive\Escritorio\Proyecto2\Proyecto2\obj\Debug\Proyecto2.FrmPresentacion.resources
+C:\Users\nancy\OneDrive\Escritorio\Proyecto2\Proyecto2\obj\Debug\Proyecto2.Resources.resources
+C:\Users\nancy\OneDrive\Escritorio\Proyecto2\Proyecto2\obj\Debug\Proyecto2.vbproj.GenerateResource.cache
+C:\Users\nancy\OneDrive\Escritorio\Proyecto2\Proyecto2\obj\Debug\Proyecto2.exe
+C:\Users\nancy\OneDrive\Escritorio\Proyecto2\Proyecto2\obj\Debug\Proyecto2.xml
+C:\Users\nancy\OneDrive\Escritorio\Proyecto2\Proyecto2\obj\Debug\Proyecto2.pdb
+C:\Users\nancy\OneDrive\Escritorio\Proyecto2\Proyecto2\obj\Debug\Proyecto2.FrmAdicionar.resources
+C:\Users\nancy\OneDrive\Escritorio\Proyecto2\Proyecto2\obj\Debug\Proyecto2.FrmEliminar.resources
+C:\Users\nancy\OneDrive\Escritorio\Proyecto2\Proyecto2\obj\Debug\Proyecto2.FrmModificar.resources
+C:\Users\raenco\Desktop\Proyecto2\bin\Debug\Proyecto2.exe.config
+C:\Users\raenco\Desktop\Proyecto2\bin\Debug\Proyecto2.exe
+C:\Users\raenco\Desktop\Proyecto2\bin\Debug\Proyecto2.pdb
+C:\Users\raenco\Desktop\Proyecto2\bin\Debug\Proyecto2.xml
+C:\Users\raenco\Desktop\Proyecto2\obj\Debug\Proyecto2.vbprojAssemblyReference.cache
+C:\Users\raenco\Desktop\Proyecto2\obj\Debug\Proyecto2.FrmCCliente.resources
+C:\Users\raenco\Desktop\Proyecto2\obj\Debug\Proyecto2.FrmCInventario.resources
+C:\Users\raenco\Desktop\Proyecto2\obj\Debug\Proyecto2.FrmCPropietario.resources
+C:\Users\raenco\Desktop\Proyecto2\obj\Debug\Proyecto2.FrmLogin.resources
+C:\Users\raenco\Desktop\Proyecto2\obj\Debug\Proyecto2.FrmAdicionar.resources
+C:\Users\raenco\Desktop\Proyecto2\obj\Debug\Proyecto2.ManPrueba.resources
+C:\Users\raenco\Desktop\Proyecto2\obj\Debug\Proyecto2.FrmMantenimiento.resources
+C:\Users\raenco\Desktop\Proyecto2\obj\Debug\Proyecto2.FrmEliminar.resources
+C:\Users\raenco\Desktop\Proyecto2\obj\Debug\Proyecto2.FrmModificar.resources
+C:\Users\raenco\Desktop\Proyecto2\obj\Debug\Proyecto2.FrmPresentacion.resources
+C:\Users\raenco\Desktop\Proyecto2\obj\Debug\Proyecto2.Resources.resources
+C:\Users\raenco\Desktop\Proyecto2\obj\Debug\Proyecto2.FrmRCliente.resources
+C:\Users\raenco\Desktop\Proyecto2\obj\Debug\Proyecto2.FrmRIngreso.resources
+C:\Users\raenco\Desktop\Proyecto2\obj\Debug\Proyecto2.FrmRMantenimiento.resources
+C:\Users\raenco\Desktop\Proyecto2\obj\Debug\Proyecto2.vbproj.GenerateResource.cache
+C:\Users\raenco\Desktop\Proyecto2\obj\Debug\Proyecto2.vbproj.CoreCompileInputs.cache
+C:\Users\raenco\Desktop\Proyecto2\obj\Debug\Proyecto2.exe
+C:\Users\raenco\Desktop\Proyecto2\obj\Debug\Proyecto2.xml
+C:\Users\raenco\Desktop\Proyecto2\obj\Debug\Proyecto2.pdb
+C:\Users\nancy\OneDrive\Escritorio\Proyecto2\Proyecto2\obj\Debug\Proyecto2.FrmCCliente.resources
+C:\Users\nancy\OneDrive\Escritorio\Proyecto2\Proyecto2\obj\Debug\Proyecto2.FrmCInventario.resources
+C:\Users\nancy\OneDrive\Escritorio\Proyecto2\Proyecto2\obj\Debug\Proyecto2.FrmCPropietario.resources
+C:\Users\nancy\OneDrive\Escritorio\Proyecto2\Proyecto2\obj\Debug\Proyecto2.FrmRCliente.resources
+C:\Users\nancy\OneDrive\Escritorio\Proyecto2\Proyecto2\obj\Debug\Proyecto2.FrmRIngreso.resources
+C:\Users\nancy\OneDrive\Escritorio\Proyecto2\Proyecto2\obj\Debug\Proyecto2.FrmRMantenimiento.resources
+C:\Users\raenco\Downloads\Proyecto2\bin\Debug\Proyecto2.exe.config
+C:\Users\raenco\Downloads\Proyecto2\bin\Debug\Proyecto2.exe
+C:\Users\raenco\Downloads\Proyecto2\bin\Debug\Proyecto2.pdb
+C:\Users\raenco\Downloads\Proyecto2\bin\Debug\Proyecto2.xml
+C:\Users\raenco\Downloads\Proyecto2\obj\Debug\Proyecto2.vbprojAssemblyReference.cache
+C:\Users\raenco\Downloads\Proyecto2\obj\Debug\Proyecto2.FrmCInventario.resources
+C:\Users\raenco\Downloads\Proyecto2\obj\Debug\Proyecto2.FrmCPropietario.resources
+C:\Users\raenco\Downloads\Proyecto2\obj\Debug\Proyecto2.FrmLogin.resources
+C:\Users\raenco\Downloads\Proyecto2\obj\Debug\Proyecto2.FrmAdicionar.resources
+C:\Users\raenco\Downloads\Proyecto2\obj\Debug\Proyecto2.FrmMantenimiento.resources
+C:\Users\raenco\Downloads\Proyecto2\obj\Debug\Proyecto2.FrmEliminar.resources
+C:\Users\raenco\Downloads\Proyecto2\obj\Debug\Proyecto2.FrmModificar.resources
+C:\Users\raenco\Downloads\Proyecto2\obj\Debug\Proyecto2.FrmPresentacion.resources
+C:\Users\raenco\Downloads\Proyecto2\obj\Debug\Proyecto2.Resources.resources
+C:\Users\raenco\Downloads\Proyecto2\obj\Debug\Proyecto2.FrmRCliente.resources
+C:\Users\raenco\Downloads\Proyecto2\obj\Debug\Proyecto2.FrmRIngreso.resources
+C:\Users\raenco\Downloads\Proyecto2\obj\Debug\Proyecto2.FrmRMantenimiento.resources
+C:\Users\raenco\Downloads\Proyecto2\obj\Debug\Proyecto2.vbproj.GenerateResource.cache
+C:\Users\raenco\Downloads\Proyecto2\obj\Debug\Proyecto2.vbproj.CoreCompileInputs.cache
+C:\Users\raenco\Downloads\Proyecto2\obj\Debug\Proyecto2.exe
+C:\Users\raenco\Downloads\Proyecto2\obj\Debug\Proyecto2.xml
+C:\Users\raenco\Downloads\Proyecto2\obj\Debug\Proyecto2.pdb
+C:\Users\raenco\Downloads\Proyecto2\obj\Debug\Proyecto2.FrmCApartamentos.resources
+C:\Users\nancy\OneDrive\Escritorio\Proyecto2\Proyecto2\obj\Debug\Proyecto2.FrmCApartamentos.resources
+C:\Users\nancy\OneDrive\Escritorio\Proyecto2\Proyecto2\obj\Debug\Proyecto2.FrmCMantenimiento.resources
+C:\Users\raenco\Downloads\Proyecto 3 - BuenaVista\bin\Debug\Proyecto2.exe.config
+C:\Users\raenco\Downloads\Proyecto 3 - BuenaVista\bin\Debug\Proyecto2.exe
+C:\Users\raenco\Downloads\Proyecto 3 - BuenaVista\bin\Debug\Proyecto2.pdb
+C:\Users\raenco\Downloads\Proyecto 3 - BuenaVista\bin\Debug\Proyecto2.xml
+C:\Users\raenco\Downloads\Proyecto 3 - BuenaVista\obj\Debug\Proyecto2.vbprojAssemblyReference.cache
+C:\Users\raenco\Downloads\Proyecto 3 - BuenaVista\obj\Debug\Proyecto2.FrmCApartamentos.resources
+C:\Users\raenco\Downloads\Proyecto 3 - BuenaVista\obj\Debug\Proyecto2.FrmCInventario.resources
+C:\Users\raenco\Downloads\Proyecto 3 - BuenaVista\obj\Debug\Proyecto2.FrmCPropietario.resources
+C:\Users\raenco\Downloads\Proyecto 3 - BuenaVista\obj\Debug\Proyecto2.FrmLogin.resources
+C:\Users\raenco\Downloads\Proyecto 3 - BuenaVista\obj\Debug\Proyecto2.FrmAdicionar.resources
+C:\Users\raenco\Downloads\Proyecto 3 - BuenaVista\obj\Debug\Proyecto2.FrmMantenimiento.resources
+C:\Users\raenco\Downloads\Proyecto 3 - BuenaVista\obj\Debug\Proyecto2.FrmEliminar.resources
+C:\Users\raenco\Downloads\Proyecto 3 - BuenaVista\obj\Debug\Proyecto2.FrmModificar.resources
+C:\Users\raenco\Downloads\Proyecto 3 - BuenaVista\obj\Debug\Proyecto2.FrmPresentacion.resources
+C:\Users\raenco\Downloads\Proyecto 3 - BuenaVista\obj\Debug\Proyecto2.Resources.resources
+C:\Users\raenco\Downloads\Proyecto 3 - BuenaVista\obj\Debug\Proyecto2.FrmRCliente.resources
+C:\Users\raenco\Downloads\Proyecto 3 - BuenaVista\obj\Debug\Proyecto2.FrmRIngreso.resources
+C:\Users\raenco\Downloads\Proyecto 3 - BuenaVista\obj\Debug\Proyecto2.FrmRMantenimiento.resources
+C:\Users\raenco\Downloads\Proyecto 3 - BuenaVista\obj\Debug\Proyecto2.vbproj.GenerateResource.cache
+C:\Users\raenco\Downloads\Proyecto 3 - BuenaVista\obj\Debug\Proyecto2.vbproj.CoreCompileInputs.cache
+C:\Users\raenco\Downloads\Proyecto 3 - BuenaVista\obj\Debug\Proyecto2.exe
+C:\Users\raenco\Downloads\Proyecto 3 - BuenaVista\obj\Debug\Proyecto2.xml
+C:\Users\raenco\Downloads\Proyecto 3 - BuenaVista\obj\Debug\Proyecto2.pdb
+C:\Users\James\Documents\UTP\UTP-James2019\II semestre 2019\Des8\1 A-ProyectoSemestral\Proyecto 3 - BuenaVista\bin\Debug\Proyecto2.exe.config
+C:\Users\James\Documents\UTP\UTP-James2019\II semestre 2019\Des8\1 A-ProyectoSemestral\Proyecto 3 - BuenaVista\bin\Debug\Proyecto2.exe
+C:\Users\James\Documents\UTP\UTP-James2019\II semestre 2019\Des8\1 A-ProyectoSemestral\Proyecto 3 - BuenaVista\bin\Debug\Proyecto2.pdb
+C:\Users\James\Documents\UTP\UTP-James2019\II semestre 2019\Des8\1 A-ProyectoSemestral\Proyecto 3 - BuenaVista\bin\Debug\Proyecto2.xml
+C:\Users\James\Documents\UTP\UTP-James2019\II semestre 2019\Des8\1 A-ProyectoSemestral\Proyecto 3 - BuenaVista\obj\Debug\Proyecto2.vbprojAssemblyReference.cache
+C:\Users\James\Documents\UTP\UTP-James2019\II semestre 2019\Des8\1 A-ProyectoSemestral\Proyecto 3 - BuenaVista\obj\Debug\Proyecto2.FrmCApartamentos.resources
+C:\Users\James\Documents\UTP\UTP-James2019\II semestre 2019\Des8\1 A-ProyectoSemestral\Proyecto 3 - BuenaVista\obj\Debug\Proyecto2.FrmCInventario.resources
+C:\Users\James\Documents\UTP\UTP-James2019\II semestre 2019\Des8\1 A-ProyectoSemestral\Proyecto 3 - BuenaVista\obj\Debug\Proyecto2.FrmCPropietario.resources
+C:\Users\James\Documents\UTP\UTP-James2019\II semestre 2019\Des8\1 A-ProyectoSemestral\Proyecto 3 - BuenaVista\obj\Debug\Proyecto2.FrmLogin.resources
+C:\Users\James\Documents\UTP\UTP-James2019\II semestre 2019\Des8\1 A-ProyectoSemestral\Proyecto 3 - BuenaVista\obj\Debug\Proyecto2.FrmAdicionar.resources
+C:\Users\James\Documents\UTP\UTP-James2019\II semestre 2019\Des8\1 A-ProyectoSemestral\Proyecto 3 - BuenaVista\obj\Debug\Proyecto2.FrmMantenimiento.resources
+C:\Users\James\Documents\UTP\UTP-James2019\II semestre 2019\Des8\1 A-ProyectoSemestral\Proyecto 3 - BuenaVista\obj\Debug\Proyecto2.FrmEliminar.resources
+C:\Users\James\Documents\UTP\UTP-James2019\II semestre 2019\Des8\1 A-ProyectoSemestral\Proyecto 3 - BuenaVista\obj\Debug\Proyecto2.FrmModificar.resources
+C:\Users\James\Documents\UTP\UTP-James2019\II semestre 2019\Des8\1 A-ProyectoSemestral\Proyecto 3 - BuenaVista\obj\Debug\Proyecto2.FrmPresentacion.resources
+C:\Users\James\Documents\UTP\UTP-James2019\II semestre 2019\Des8\1 A-ProyectoSemestral\Proyecto 3 - BuenaVista\obj\Debug\Proyecto2.Resources.resources
+C:\Users\James\Documents\UTP\UTP-James2019\II semestre 2019\Des8\1 A-ProyectoSemestral\Proyecto 3 - BuenaVista\obj\Debug\Proyecto2.FrmRCliente.resources
+C:\Users\James\Documents\UTP\UTP-James2019\II semestre 2019\Des8\1 A-ProyectoSemestral\Proyecto 3 - BuenaVista\obj\Debug\Proyecto2.FrmRIngreso.resources
+C:\Users\James\Documents\UTP\UTP-James2019\II semestre 2019\Des8\1 A-ProyectoSemestral\Proyecto 3 - BuenaVista\obj\Debug\Proyecto2.FrmRMantenimiento.resources
+C:\Users\James\Documents\UTP\UTP-James2019\II semestre 2019\Des8\1 A-ProyectoSemestral\Proyecto 3 - BuenaVista\obj\Debug\Proyecto2.vbproj.GenerateResource.cache
+C:\Users\James\Documents\UTP\UTP-James2019\II semestre 2019\Des8\1 A-ProyectoSemestral\Proyecto 3 - BuenaVista\obj\Debug\Proyecto2.vbproj.CoreCompileInputs.cache
+C:\Users\James\Documents\UTP\UTP-James2019\II semestre 2019\Des8\1 A-ProyectoSemestral\Proyecto 3 - BuenaVista\obj\Debug\Proyecto2.exe
+C:\Users\James\Documents\UTP\UTP-James2019\II semestre 2019\Des8\1 A-ProyectoSemestral\Proyecto 3 - BuenaVista\obj\Debug\Proyecto2.xml
+C:\Users\James\Documents\UTP\UTP-James2019\II semestre 2019\Des8\1 A-ProyectoSemestral\Proyecto 3 - BuenaVista\obj\Debug\Proyecto2.pdb
